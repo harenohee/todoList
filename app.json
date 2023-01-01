@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "todoList",
-    "slug": "todoList",
+    "slug": "todolist",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b51a535d-e26d-486a-9f37-35f1b926de10"
+      }
+    },
+    "owner": "harenohee"
   }
 }
