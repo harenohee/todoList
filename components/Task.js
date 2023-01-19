@@ -1,5 +1,5 @@
 import { View, Text, StyleSheet, TouchableOpacity } from "react-native";
-
+// 클론 테스트
 const Task = (props) => {
   return (
     <View style={styles.item}>
